@@ -141,4 +141,14 @@ p{
     text-decoration:line-through;
     margin-left: 10%;
 }
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+  }
 }
